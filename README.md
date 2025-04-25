@@ -1,21 +1,27 @@
-# Soroban Project
+# Voice-to-Text Translator Smart Contract
 
-## Project Structure
+## Project Title
 
-This repository uses the recommended structure for a Soroban project:
-```text
-.
-├── contracts
-│   └── hello_world
-│       ├── src
-│       │   ├── lib.rs
-│       │   └── test.rs
-│       └── Cargo.toml
-├── Cargo.toml
-└── README.md
-```
+Voice-to-Text Translator for Various Languages
 
-- New Soroban contracts can be put in `contracts`, each in their own directory. There is already a `hello_world` contract in there to get you started.
-- If you initialized this project with any other example contracts via `--with-example`, those contracts will be in the `contracts` directory as well.
-- Contracts should have their own `Cargo.toml` files that rely on the top-level `Cargo.toml` workspace for their dependencies.
-- Frontend libraries can be added to the top-level directory as well. If you initialized this project with a frontend template via `--frontend-template` you will have those files already included.
+## Project Description
+
+This smart contract provides a decentralized platform for translating voice-to-text input into various languages. It supports multiple languages and ensures that translation services are accessible and verifiable on the blockchain.
+
+## Project Vision
+
+To enable seamless and transparent voice-to-text translation services on the blockchain, allowing users to translate their voice inputs into text in different languages with ease.
+
+## Key Features
+
+- **Multi-Language Support**: Translate voice-to-text input into multiple languages.
+- **Decentralized Platform**: Utilize the blockchain for transparent and verifiable translations.
+- **Simple Interface**: Easy-to-use functions for translation and language support queries.
+
+## Future Scope
+
+- **Integration with Voice Recognition**: Incorporate voice recognition capabilities to directly convert speech to text.
+- **Support for More Languages**: Expand the list of supported languages for broader accessibility.
+- **Enhanced Translation Accuracy**: Implement advanced translation algorithms for more accurate translations.
+
+![alt text](image.png)

@@ -12,6 +12,9 @@ This smart contract provides a decentralized platform for translating voice-to-t
 
 To enable seamless and transparent voice-to-text translation services on the blockchain, allowing users to translate their voice inputs into text in different languages with ease.
 
+## Contract Address Details :
+GAI4LTQJUDUCDKQHDVPYZMOI3IQWQRSDEIV2P2AYFW472MBLU4ZUFHGM
+
 ## Key Features
 
 - **Multi-Language Support**: Translate voice-to-text input into multiple languages.
